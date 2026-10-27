@@ -1,6 +1,6 @@
 # Gustavo Fuenmayor Quintero
 
-Estudiante de 2.º de ASIR (Administración de Sistemas Informáticos en Red). Me interesan la administración de sistemas Linux, los contenedores y los despliegues fiables.
+Estudiante de 2.º de ASIR (Administración de Sistemas Informáticos en Red).
 
 ## Proyecto
 
