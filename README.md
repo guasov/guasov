@@ -1,4 +1,4 @@
-# Gustavo Fuenmayor Quintero
+# Gustavo Adolfo Fuenmayor Quintero
 
 Estudiante de 2.º de ASIR (Administración de Sistemas Informáticos en Red).
 
